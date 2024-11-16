@@ -13,4 +13,4 @@ O projeto foi programado para ser responsivo para derivados dispositivos
 ## Agradecimento
 Espero que curtem o projeto, por mais simples que ele é.
 
-![Leonardo Santos](https://github.com/LeonardoJustino)
+[Leonardo Santos](https://github.com/LeonardoJustino)
